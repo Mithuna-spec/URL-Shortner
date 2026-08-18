@@ -1,7 +1,7 @@
 import axiosInstance from "../utils/axiosInstance";
 
 // Base URL for your backend API
-const API_BASE_URL = "http://localhost:5000";
+const API_BASE_URL = "https://url-shortner-ot2h.onrender.com";
 
 // Function to create a short URL
 export const createShortUrl = async (url) => {
