@@ -62,7 +62,9 @@ Create `.env` in Backend folder:
 ```env
 PORT=5000
 ```
+## Development
 
+This project is actively maintained and improved.
 ---
 
 ## 💻 Usage
